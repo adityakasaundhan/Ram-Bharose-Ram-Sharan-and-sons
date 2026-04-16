@@ -24,7 +24,7 @@ export default function About() {
             </h1>
             <div className="space-y-6 text-stone-600 leading-relaxed text-lg">
               <p>
-                Founded in 1939, <span className="font-bold text-stone-800">Ram Bharose Ram Sharan & Son Firm</span> has been the cornerstone of Ayurvedic healthcare in Fatehpur, Uttar Pradesh for over 85 years.
+                Founded in 1939, <span className="font-bold text-stone-800">Ram Bharose Ram Sharan & Sons Ayurvedic Clinic</span> has been the cornerstone of Ayurvedic healthcare in Fatehpur, Uttar Pradesh for over 85 years.
               </p>
               <p>
                 What started as a small local apothecary has flourished into a trusted institution, now being served by <span className="font-bold text-stone-800">Ajay Kumar Gupta (Saddam)</span>, representing the second generation of practitioners who carry forward the sacred legacy of natural healing.

@@ -5,6 +5,15 @@ import { Link } from 'react-router-dom';
 export default function Services() {
   const categories = [
     {
+      title: 'Major Organ Health',
+      icon: <HeartPulse className="text-primary-green" />,
+      items: [
+        { name: 'Heart Health', desc: 'Arjun-based therapies to strengthen cardiac muscles and regulate circulation.' },
+        { name: 'Liver Care', desc: 'Ayurvedic detoxification for fatty liver, jaundice, and bile optimization.' },
+        { name: 'Kidney Function', desc: 'Natural support for renal health and urinary tract balance.' }
+      ]
+    },
+    {
       title: 'Digestive & Metabolic',
       icon: <Droplets className="text-primary-green" />,
       items: [

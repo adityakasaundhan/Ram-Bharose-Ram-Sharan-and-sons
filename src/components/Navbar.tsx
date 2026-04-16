@@ -35,7 +35,7 @@ export default function Navbar() {
               <Leaf size={24} />
             </motion.div>
             <div className="flex flex-col">
-              <span className="text-xl font-serif font-bold tracking-tight text-primary-green leading-none">Ram Bharose</span>
+              <span className="text-base md:text-lg font-serif font-bold tracking-tight text-primary-green leading-none">Ram Bharose Ram Sharan & Sons</span>
               <span className="text-[10px] uppercase tracking-widest text-stone-500 font-medium">Ayurvedic Clinic</span>
             </div>
           </Link>

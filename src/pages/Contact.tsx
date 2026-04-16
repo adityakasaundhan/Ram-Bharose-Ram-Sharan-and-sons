@@ -56,6 +56,17 @@ export default function Contact() {
 
               <div className="flex gap-6 items-start">
                 <div className="p-4 glass-card rounded-2xl shadow-sm text-primary-green">
+                  <Mail size={24} />
+                </div>
+                <div>
+                  <h4 className="font-serif font-bold text-lg text-stone-900">Email Inquiry</h4>
+                  <p className="text-primary-green font-bold text-xl mb-1">ajaygupta77@gmail.com</p>
+                  <p className="text-stone-500 text-sm">Typical response within 24 hours</p>
+                </div>
+              </div>
+
+              <div className="flex gap-6 items-start">
+                <div className="p-4 glass-card rounded-2xl shadow-sm text-primary-green">
                   <MapPin size={24} />
                 </div>
                 <div>
@@ -128,6 +139,7 @@ export default function Contact() {
                 <div className="space-y-2">
                   <label className="text-xs font-bold text-stone-500 uppercase tracking-widest">Consultation For</label>
                   <select className="w-full bg-white/40 backdrop-blur-sm border-stone-200 rounded-2xl px-5 py-4 focus:ring-2 focus:ring-primary-green outline-none transition-all appearance-none cursor-pointer">
+                    <option>Major Organ Health (Heart/Liver)</option>
                     <option>Digestive Health</option>
                     <option>Joint & Bone Pain</option>
                     <option>Skin Disorders</option>

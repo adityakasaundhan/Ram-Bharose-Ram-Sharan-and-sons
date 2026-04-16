@@ -13,7 +13,7 @@ export default function Footer() {
               <div className="p-2 bg-primary-green rounded-full text-white">
                 <Leaf size={20} />
               </div>
-              <span className="text-xl font-serif font-bold tracking-tight text-primary-green">Ram Bharose</span>
+              <span className="text-xl font-serif font-bold tracking-tight text-primary-green">Ram Bharose Ram Sharan & Sons</span>
             </div>
             <p className="text-sm leading-relaxed text-stone-900 mb-1 font-bold">
               Ajay Kumar Gupta (Saddam)
@@ -47,7 +47,7 @@ export default function Footer() {
               </li>
               <li className="flex gap-3">
                 <Mail size={18} className="text-primary-green shrink-0" />
-                <span>info@rambharoseayurveda.com</span>
+                <span>ajaygupta77@gmail.com</span>
               </li>
               <li className="flex gap-3">
                 <MapPin size={18} className="text-primary-green shrink-0" />
@@ -72,7 +72,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-glass-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-stone-500">
-          <p>© {currentYear} Ram Bharose Ram Sharan & Son Firm. All rights reserved.</p>
+          <p>© {currentYear} Ram Bharose Ram Sharan & Sons Ayurvedic Clinic. All rights reserved.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-stone-900 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-stone-900 transition-colors">Terms of Service</a>

@@ -6,7 +6,7 @@ const testimonials = [
     name: "Ramesh Kumar",
     location: "Fatehpur",
     role: "Regular Patient",
-    text: "I suffered from chronic acidity for 10 years and tried various medications. After just 2 months of treatment at Ram Bharose firm, my digestion is completely normal. Truly a legacy of healing.",
+    text: "I suffered from chronic acidity for 10 years and tried various medications. After just 2 months of treatment at Ram Bharose Ram Sharan & Sons, my digestion is completely normal. Truly a legacy of healing.",
     rating: 5
   },
   {

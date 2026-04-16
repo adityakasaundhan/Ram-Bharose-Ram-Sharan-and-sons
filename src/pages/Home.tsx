@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 export default function Home() {
   const featuredServices = [
     {
-      title: 'Digestive Health',
-      desc: 'Traditional remedies for acidity, gas, and chronic digestive issues.',
+      title: 'Major Organ Health',
+      desc: 'Specialized Arjuna and herbal therapies for Heart, Liver, and Kidney care.',
       icon: <HeartPulse className="text-primary-green" size={24} />
     },
     {
@@ -52,7 +52,7 @@ export default function Home() {
                   <div className="inline-block bg-accent-gold text-white px-3 py-1 rounded-full text-[0.75rem] font-bold mb-4 w-fit shadow-sm">
                     Est. 1939 • 85 Years of Trust
                   </div>
-                  <h1 className="text-5xl md:text-8xl font-serif font-black text-stone-900 leading-[1.1] mb-6">
+                  <h1 className="text-5xl md:text-7xl font-serif font-black text-stone-900 leading-[1.1] mb-6">
                     <motion.span 
                       initial={{ opacity: 0, y: 20 }}
                       animate={{ opacity: 1, y: 0 }}
@@ -67,7 +67,15 @@ export default function Home() {
                       transition={{ duration: 0.6, delay: 0.2 }}
                       className="block text-primary-green italic font-medium"
                     >
-                      Ram Sharan & Son
+                      Ram Sharan & Sons
+                    </motion.span>
+                    <motion.span 
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.6, delay: 0.4 }}
+                      className="block text-2xl md:text-3xl text-stone-500 uppercase tracking-widest mt-4 font-bold"
+                    >
+                      Ayurvedic Clinic
                     </motion.span>
                   </h1>
                   <motion.div 
