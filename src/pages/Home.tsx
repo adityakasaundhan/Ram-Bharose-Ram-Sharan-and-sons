@@ -126,8 +126,8 @@ export default function Home() {
             >
               <div className="relative z-10 pill-image shadow-2xl border-4 border-white aspect-[3/4] w-full max-w-md mx-auto overflow-hidden">
                 <img 
-                  src="https://picsum.photos/seed/ayurveda/800/1000" 
-                  alt="Traditional Ayurvedic Healing" 
+                  src="https://raw.githubusercontent.com/antigravity-hq/antigravity-storage/refs/heads/main/input_file_0.png" 
+                  alt="Ram Bharose Ram Sharan & Sons Shop Front" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
                 />
