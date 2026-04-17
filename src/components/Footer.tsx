@@ -65,7 +65,7 @@ export default function Footer() {
               </li>
               <li className="flex justify-between">
                 <span>Sunday</span>
-                <span>10:00 AM - 2:00 PM</span>
+                <span>10:00 AM - 9:00 PM</span>
               </li>
             </ul>
           </div>

@@ -140,6 +140,7 @@ export default function Contact() {
                   <label className="text-xs font-bold text-stone-500 uppercase tracking-widest">Consultation For</label>
                   <select className="w-full bg-white/40 backdrop-blur-sm border-stone-200 rounded-2xl px-5 py-4 focus:ring-2 focus:ring-primary-green outline-none transition-all appearance-none cursor-pointer">
                     <option>Major Organ Health (Heart/Liver)</option>
+                    <option>Ashwagandha & Immunity Boost</option>
                     <option>Digestive Health</option>
                     <option>Joint & Bone Pain</option>
                     <option>Skin Disorders</option>

@@ -41,8 +41,8 @@ export default function Home() {
                 {/* Vintage Background Overlay for Heading */}
                 <div className="absolute inset-0 z-0 opacity-20 pointer-events-none grayscale sepia brightness-110">
                   <img 
-                    src="https://picsum.photos/seed/herb-shop/800/800" 
-                    alt="Vintage Ayurvedic Shop Background" 
+                    src="https://picsum.photos/seed/jadibouti-roots/800/800" 
+                    alt="Ayurvedic Herbs and Roots Background" 
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
                   />
@@ -126,8 +126,8 @@ export default function Home() {
             >
               <div className="relative z-10 pill-image shadow-2xl border-4 border-white aspect-[3/4] w-full max-w-md mx-auto overflow-hidden">
                 <img 
-                  src="https://raw.githubusercontent.com/antigravity-hq/antigravity-storage/refs/heads/main/input_file_0.png" 
-                  alt="Ram Bharose Ram Sharan & Sons Shop Front" 
+                  src="https://picsum.photos/seed/ashwagandha-roots/800/1000" 
+                  alt="Raw Ashwagandha Roots - Traditional Ayurvedic Herb" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
                 />
@@ -191,8 +191,8 @@ export default function Home() {
       <section className="relative overflow-hidden bg-stone-900 text-white py-32 mt-20">
         <div className="absolute inset-0 opacity-20 pointer-events-none">
           <img 
-            src="https://picsum.photos/seed/manuscript/1920/1080?grayscale&blur=2" 
-            alt="Ancient Script Background" 
+            src="https://picsum.photos/seed/healing-herbs-script/1920/1080?grayscale&blur=2" 
+            alt="Ancient Ayurvedic Script and Herbs" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
           />

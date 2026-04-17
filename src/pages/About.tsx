@@ -52,8 +52,8 @@ export default function About() {
           >
             <div className="relative z-10 pill-image shadow-2xl overflow-hidden aspect-square max-w-lg mx-auto border-8 border-white">
               <img 
-                src="https://raw.githubusercontent.com/antigravity-hq/antigravity-storage/refs/heads/main/input_file_0.png" 
-                alt="Our Historic Shop in Fatehpur" 
+                src="https://picsum.photos/seed/ayurvedic-roots-medicine/1000/1000" 
+                alt="85 Year Old Firm Legacy of Medicine" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
